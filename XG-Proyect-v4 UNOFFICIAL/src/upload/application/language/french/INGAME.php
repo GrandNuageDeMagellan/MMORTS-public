@@ -1,14 +1,14 @@
 <?php
 //SERVER GENERALS
-$lang['Metal'] = 'Metal';
+$lang['Metal'] = 'Métal';
 $lang['Crystal'] = 'Crystal';
-$lang['Deuterium'] = 'Deuterium';
-$lang['Darkmatter'] = 'Dark Matter';
-$lang['Energy'] = 'Energy';
+$lang['Deuterium'] = 'Deutérium';
+$lang['Darkmatter'] = 'Matière noire';
+$lang['Energy'] = 'Energie';
 $lang['Messages'] = 'Messages';
 $lang['write_message'] = 'Write Message';
 $lang['ge_home_planet'] = 'Homeworld';
-$lang['ge_colony'] = 'Colony';
+$lang['ge_colony'] = 'Colonie';
 
 $lang['online'] = 'Online';
 $lang['minutes'] = '15 min';
